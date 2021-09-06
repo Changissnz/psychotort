@@ -10,8 +10,8 @@ The aim of this project is to create an infrasonic program that can be be upload
 Here is the kicker, people. I never got COLLEGED in the field of infrasonics. What do I do? What do I do? Do I go look for someone that got colleged in 
 the field of infrasonics? What social circle, 1 through X, would provide the best information for the best price?
 
-I am stuck. And I do not know what to do but stare at my own reflection and review all the memories, authentic and otherwise, in my bwain, knowing that that 
-reflection and all my memories may just be the product of an infrasonic device currently in operation by someone. 
+Sigh, I am stuck and lost. And I do not know what to do but stare at my own reflection and review all the memories, authentic and otherwise, in my bwain, knowing 
+that that reflection and all my memories may just be the product of an infrasonic device currently in operation by someone. 
 
 
 * Disclaimer: Seriously? 
