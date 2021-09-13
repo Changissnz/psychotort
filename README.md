@@ -22,7 +22,8 @@ UPDATE: 9/13
 
 HEY GUYZZZZZ, I'm back with some new inklings on Psychotort.
 
-*Sci-Fi Thoughts*
+**Sci-Fi Thoughts**
+
 Imagine a world where miscommunication is a relic. Miscommunication has been eradicated in this
 world thanks to widespread adoption of infrasound technology by society. By the way, in this 
 world, miscommunication is defined as communicating the wrong message. The wrong message is one 
@@ -40,7 +41,7 @@ and not risk any miscommunication whatsoever!
 
 Is this not a lovely and unbelievable world? 
 
-*Personal Thoughts*
+**Personal Thoughts**
 
 The fields that this personal project focuses on are psycho-acoustics and audiology. During 
 the  spare time that I have dedicated to this project, I will mainly read research papers and 
@@ -58,5 +59,5 @@ the present and the future, and the field does offer a template for operating an
 audio devices for communication. 
 
 
-*References and Sources* 
+**References and Sources**
 In this section, I will list references and sources pertinent to audiology. 
