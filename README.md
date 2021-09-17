@@ -64,3 +64,36 @@ audio devices for communication.
 **References and Sources**
 
 In this section, I will list references and sources pertinent to audiology. 
+
+**Experimentals**
+
+Some ideas for experiments: 
+
+The ideas contained in this section do not directly involve any audio hardware. They are preliminary and could be better described. 
+
+*Experiment: Initial Observation*
+
+- Using a preliminary dataset D containing information on the sample S, generate `l * n_l`
+  chunks of audio data, l is the number of labels and `n_l` the length of its data.
+  
+ > apply psychological design here
+  
+  
+  Measure the impact of these `l * n_l` chunks by iterating through them. Plot their distribution. Repeat on new dataset `D'`. 
+  
+  During the steps above, keep a log `L` of `(chunk,score)` pairs that are of interest.
+  
+  *Experiment: Repeater*
+  
+  - On the log `L` collected above, determine their significance over a timespan `T` on a sample `S`. The significance is to be measured in accordance with 
+  
+> apply psychological design here
+  
+  *Experiment: Anti-Focus* 
+  
+  - Choose an activity `A`, defined as a sequence of steps taken from root to leaf on a uni-directional tree `A_1`, that the sample `S` is inclined to do. 
+    Determine important metrics such as averages on the sample `S` performing this activity. On the log `L`, choose `l` samples and cast them over to the sample 
+    `S` for time duration `T` when the sample `S` is performing activity `A`. Compare performance measures of this cast to the performance measures of previous 
+    casts.  
+  
+> psychological design required for this
