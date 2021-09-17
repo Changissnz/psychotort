@@ -73,7 +73,7 @@ The ideas contained in this section do not directly involve any audio hardware. 
 
 *Experiment: Initial Observation*
 
-- Using a preliminary dataset D containing information on the sample S, generate `l * n_l`
+- Using a preliminary dataset `D` containing information on the sample `S`, generate `l * n_l`
   chunks of audio data, l is the number of labels and `n_l` the length of its data.
   
  > apply psychological design here
