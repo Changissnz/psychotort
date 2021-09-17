@@ -91,9 +91,11 @@ The ideas contained in this section do not directly involve any audio hardware. 
   
   *Experiment: Anti-Focus* 
   
-  - Choose an activity `A`, defined as a sequence of steps taken from root to leaf on a uni-directional tree `A_1`, that the sample `S` is inclined to do. 
-    Determine important metrics such as averages on the sample `S` performing this activity. On the log `L`, choose `l` samples and cast them over to the sample 
-    `S` for time duration `T` when the sample `S` is performing activity `A`. Compare performance measures of this cast to the performance measures of previous 
-    casts.  
-  
-> psychological design required for this
+  - Define an activity `A` as a sequence of steps taken from root to leaf on a uni-directional tree `U`. A derivative activity `A_2` is a non-identical sequence 
+of steps on `U`.  Choose an ideal activity `A` on `U`. Determine important metrics such as averages on the sample `S` performing this activity. Conduct the 
+
+> apply psychological design here
+
+on `S` performing activity `A` and its derivatives on `U` \under the effects of the psychological design `X` and log the results into 
+
+> data structure design here
