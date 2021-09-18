@@ -65,15 +65,15 @@ audio devices for communication.
 
 In this section, I will list references and sources pertinent to audiology. 
 
-- European Attitudes on Noise Pollution 
-
-https://www.dw.com/en/noise-pollution-threatens-health-of-one-in-five-europeans/a-52645064
-
 - Chinese Attitudes on Noise Pollution 
 
 https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/22/e3sconf_icepp2019_03003.pdf
 
 https://doi.org/10.1051/e3sconf/20199603003
+
+- European Attitudes on Noise Pollution 
+
+https://www.dw.com/en/noise-pollution-threatens-health-of-one-in-five-europeans/a-52645064
 
 - US Attitudes on Noise Pollution
 
