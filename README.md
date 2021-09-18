@@ -83,13 +83,13 @@ The ideas contained in this section do not directly involve any audio hardware. 
   
   During the steps above, keep a log `L` of `(chunk,score)` pairs that are of interest.
   
-  *Experiment: Repeater*
+*Experiment: Repeater*
   
   - On the log `L` collected above, determine their significance over a timespan `T` on a sample `S`. The significance is to be measured in accordance with 
   
 > apply psychological design here
   
-  *Experiment: Anti-Focus* 
+*Experiment: Anti-Focus* 
   
   - Define an activity `A` as a sequence of steps taken from root to leaf on a uni-directional tree `U`. A derivative activity `A_2` is a non-identical sequence 
 of steps on `U`.  Choose an ideal activity `A` on `U`. Determine important metrics such as averages on the sample `S` performing this activity. Conduct the 
@@ -99,3 +99,19 @@ of steps on `U`.  Choose an ideal activity `A` on `U`. Determine important metri
 on `S` performing activity `A` and its derivatives on `U` \under the effects of the psychological design `X` and log the results into 
 
 > data structure design here
+
+*Experiment: Expression-Replacement*
+
+  - Determine the "positive" impact after conducting a psycho-acoustic design `X` on sample `S`. A "positive" impact is observed on sample `S` if `S` changes
+    behavior on a specific task and the cause can be readily attributed to `X`. Such causes can be concocted by drawing similarities to the changes in behavior
+    and the contents of `X`. 
+
+*Experiment: Retort* 
+
+  - Suppose the psycho-acoustic device `D` has the additional feature of being able to interpret the response of sample `S` to a given psycho-acoustic chunk.
+    The experiment will start off in the manner of initial observation (see the first experiment). After some activity has been logged, device `D` will start
+    sending retort chunks to sample `S`. These retort chunks `r` are to be designed in response to data collected on `S` at the start (initial observation),
+    and additional background information on `S`. Responses by `S` on retort chunks are logged. 
+    
+  - important note: device `D` is an extension of standard psycho-acoustic technology. 
+
