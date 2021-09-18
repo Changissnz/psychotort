@@ -102,7 +102,7 @@ on `S` performing activity `A` and its derivatives on `U` \under the effects of 
 
 *Experiment: Expression-Replacement*
 
-  - Determine the "positive" impact after conducting a psycho-acoustic design `X` on sample `S`. A "positive" impact is observed on sample `S` if `S` changes
+  - Determine the "positive" impacts after conducting a psycho-acoustic design `X` on sample `S`. A "positive" impact is observed on sample `S` if `S` changes
     behavior on a specific task and the cause can be readily attributed to `X`. Such causes can be concocted by drawing similarities to the changes in behavior
     and the contents of `X`. 
 
