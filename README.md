@@ -78,7 +78,7 @@ https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/22/e3sconf_icepp2019_0
 https://doi.org/10.1051/e3sconf/20199603003
 
 - US Attitudes on Noise Pollution
-- 
+
 https://www.epa.gov/laws-regulations/summary-noise-control-act
 
 **Experimentals**
