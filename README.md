@@ -69,8 +69,6 @@ In this section, I will list references and sources pertinent to audiology.
 
 https://www.dw.com/en/noise-pollution-threatens-health-of-one-in-five-europeans/a-52645064
 
-https://www.epa.gov/laws-regulations/summary-noise-control-act
-
 - Chinese Attitudes on Noise Pollution 
 
 https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/22/e3sconf_icepp2019_03003.pdf
