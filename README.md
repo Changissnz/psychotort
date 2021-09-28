@@ -144,3 +144,7 @@ UPDATE: 9/28
 Here is an interesting device that can be used for auditory research. 
 
 https://www.tdt.com/component/medusa4z-amplifier/
+
+Here is an article for ethical purposes.
+
+https://www.goodreads.com/work/quotes/1031493-paradise-lost
