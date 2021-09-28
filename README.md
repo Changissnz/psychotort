@@ -79,6 +79,11 @@ https://www.dw.com/en/noise-pollution-threatens-health-of-one-in-five-europeans/
 
 https://www.epa.gov/laws-regulations/summary-noise-control-act
 
+- Experimental design
+
+Mock,J.E. (2001). Experiments in Psychoacoustics [, University of Illinois, Urbana-Champaign]. Phys406. https://courses.physics.illinois.edu/phys406/sp2017/Student_Projects/Spring01/JMock/Jason_Mock_Paper.pdf
+
+
 **Experimentals**
 
 Some ideas for experiments: 
