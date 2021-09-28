@@ -129,3 +129,9 @@ on `S` performing activity `A` and its derivatives on `U` \under the effects of 
     
   - important note: device `D` is an extension of standard psycho-acoustic technology. 
 
+UPDATE: 9/27
+
+I have decided to postpone this project until a later date when I have developed more hands-on expertise.
+I will do related work in the meantime, and post meaningful links, found in the "References and Sources" section above. 
+
+
