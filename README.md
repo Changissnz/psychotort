@@ -139,4 +139,8 @@ UPDATE: 9/27
 I have decided to postpone this project until a later date when I have developed more hands-on expertise.
 I will do related work in the meantime, and post meaningful links, found in the "References and Sources" section above. 
 
+UPDATE: 9/28 
 
+Here is an interesting device that can be used for auditory research. 
+
+https://www.tdt.com/component/medusa4z-amplifier/
