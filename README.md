@@ -1,3 +1,5 @@
+[UPDATE: 9/28, Project no longer interests me. Closed until further notice.]
+
 **My Altruism For This Project**
 
 This project has been started just by me, but it is not original. I am confident above a typically-confident level that someone, somewhere over the rainbow
